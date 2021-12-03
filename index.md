@@ -1,14 +1,11 @@
 
-## Welcome to ZQ's Pages
+## Welcome to YFF's Pages
 
 <table border="0">
   <tr>
     <td width="60%">
       <h1>于斐斐</h1>
       <p><b>硕士研究生</b></p>
-      
-
-      <img src="/zq.jpg" width="100%">
     </td>
   </tr>
 </table>
